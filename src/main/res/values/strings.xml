@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppOne</string>
+    <string name="display_text">View user submitted text</string>
+    <string name="submit_button">Submit Text</string>
+</resources>
